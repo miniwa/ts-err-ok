@@ -125,3 +125,7 @@ if (res.ok()) {
 ## Other
 
 - [Changelog](/CHANGELOG.md)
+
+## Projects that use ts-err-ok
+
+- [Debil-Bot](https://github.com/miniwa/debil-bot)
